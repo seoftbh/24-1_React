@@ -46,5 +46,5 @@ npm run build
 
 ---
 ## 실습 결과물
-[🔗 실습 결과물](https://seoftbh.github.io/24-1React/week03/build/index/html)
+[🔗 실습 결과물](https://seoftbh.github.io/24-1React/week03/build/index.html)
 ![](./md/img1.gif)
