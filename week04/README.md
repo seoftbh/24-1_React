@@ -73,6 +73,7 @@ root.render(
 개발자 도구에서 `span`태그가 업데이트 되고 있다는 것을 보여주고 있음
 변화되는 부분은 '초(second)'에 해당되는 부분이지만 시간 전체 부분을 업데이트하고 있음
 즉 DOM 전체를 새로 만들고 있음
+
 [🔗 Link](https://seoftbh.github.io/24-1_React/week04/clock/clock.html)
 ![실습2-1 실행 결과](./md/image-1.png)
 
@@ -83,6 +84,7 @@ root.render(
 전체를 업데이트하지 않고
 필요한 부분인 '초(second)' 부분만 업데이트 되고 있음
 Virtual DOM을 사용하기 때문임
+
 [🔗 Link](https://seoftbh.github.io/24-1_React/week04/clock/reactClock.html)
 ![실습2-2 실행 결과](./md/image-2.png)
 
@@ -92,6 +94,7 @@ Virtual DOM을 사용하기 때문임
 
 #### 실행 결과
 DOM 전체가 아닌 변화가 일어나는 곳에만 업데이트가 발생하고 있음
+
 [🔗 Link](https://seoftbh.github.io/24-1_React/week04/clock/binaryClock.html)
 ![실습2-3 실행 결과](./md/image-3.png)
 
