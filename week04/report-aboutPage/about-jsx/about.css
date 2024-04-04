@@ -1,0 +1,53 @@
+body {
+    background: linear-gradient(to right, #ada6ff, #99ccff);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+hr {
+    margin: 16px !important;
+}
+
+img#profile {
+    width: 100px;
+    height: auto;
+    border-radius: 50px;
+    margin-right: 40px;
+    transition: all .2s;
+    &:hover {
+        width: 200px;
+        height: auto;
+        border-radius: 20px;
+    }
+}
+table {
+    display: inline-block;
+    border-collapse: collapse;
+    border-spacing: 0;
+    vertical-align: top;
+}
+
+table tr th:first-child {
+    width: 80px;
+}
+
+a {
+    color: inherit !important;
+    text-decoration: none !important;
+}
+
+div.card {
+    width: 40rem; 
+    padding: 20px; 
+    border-radius: 16px;
+}
+
+div#contacts {
+    margin: 16px 0 -16px 8px;
+    
+}
+
+span.badge {
+    margin-right: 4px;
+}
