@@ -39,8 +39,8 @@
 1. 리액트 프로젝트 생성 `npx create-react-app book`
 2. 생성된 프로젝트 안에서 `src` 디렉터리 하위에 `jsxCode`(소문자) 디렉터리를 생성함
 3. `jsxCode` 디렉터리에 두 파일을 작성함
-	- `src/jsxCode/Book.jsx`
-	- `src/jsxCode/BookLibrary.jsx`
+	- [`src/jsxCode/Book.jsx`](./book/src/jsxCode/Book.js)
+	- [`src/jsxCode/BookLibrary.jsx`](./book/src/jsxCode/BookLibrary.js)
 4. `index.js`에 다음의 import 문장을 추가함
 ```js
 import BookLibrary from './jsxCode/BookLibrary';
