@@ -1,6 +1,6 @@
 **ToC**
-- 수업 내용 요약 & 실습
-- 과제
+- [수업 내용 요약 & 실습](#수업-내용-요약)
+- [과제](#과제)
 
 ---
 
@@ -101,5 +101,6 @@ DOM 전체가 아닌 변화가 일어나는 곳에만 업데이트가 발생하�
 ### 과제 1-2) JS로 구현하기
 ### 과제 1-3) JSX로 구현하기
 
-## 과제 2 - Figma로 SPA(Single Page App) 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FLVPd0Gyv26a39fy5Nsi3Nz%2FUntitled%3Fnode-id%3D1-3%26starting-point-node-id%3D1%253A3%26mode%3Ddesign%26t%3DryfNnImidZsysJjn-1" allowfullscreen></iframe>
+## 과제 2 - Figma로 SPA(Single Page App) 기획하기
+[🔗 Link](https://www.figma.com/proto/LVPd0Gyv26a39fy5Nsi3Nz/Untitled?node-id=1-3&starting-point-node-id=1%3A3&mode=design&t=MyJHVinETmfVw13U-1)
+![figma screenshot](./md/image-5.png)
