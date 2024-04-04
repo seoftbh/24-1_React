@@ -106,8 +106,14 @@ DOM 전체가 아닌 변화가 일어나는 곳에만 업데이트가 발생하�
 [🔗 Link](https://seoftbh.github.io/24-1_React/week04/report-aboutPage/about-html.html)
 ![자기소개서 스크린샷](./md/image-4.png)
 ### 과제 1-1) HTML로 만들기
+https://github.com/seoftbh/24-1_React/blob/d879bd792d51dfe6c64f76ac94180d7bc2c64578/week04/report-aboutPage/about-html.html#L15-L65
+
 ### 과제 1-2) JS로 구현하기
+https://github.com/seoftbh/24-1_React/blob/d879bd792d51dfe6c64f76ac94180d7bc2c64578/week04/report-aboutPage/about-js.html#L18-L127
+
 ### 과제 1-3) JSX로 구현하기
+https://github.com/seoftbh/24-1_React/blob/d879bd792d51dfe6c64f76ac94180d7bc2c64578/week04/report-aboutPage/about-jsx/About.js#L1-L62
+
 
 ## 과제 2 - Figma로 SPA(Single Page App) 기획하기
 [🔗 Link](https://www.figma.com/proto/LVPd0Gyv26a39fy5Nsi3Nz/Untitled?node-id=1-3&starting-point-node-id=1%3A3&mode=design&t=MyJHVinETmfVw13U-1)
