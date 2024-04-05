@@ -107,7 +107,8 @@ root.render(
 # 과제
 ## 과제 1 - 간단한 자기소개서 만들기
 [🔗 Link](https://seoftbh.github.io/24-1_React/week04/report-aboutPage/about-html.html)
-![자기소개서 스크린샷](./md/image-4.png)
+[![자기소개서 스크린샷](./md/image-4.png)](https://seoftbh.github.io/24-1_React/week04/report-aboutPage/about-html.html)
+
 ### 과제 1-1) HTML로 만들기
 https://github.com/seoftbh/24-1_React/blob/d879bd792d51dfe6c64f76ac94180d7bc2c64578/week04/report-aboutPage/about-html.html#L15-L65
 
