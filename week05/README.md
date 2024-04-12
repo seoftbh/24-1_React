@@ -729,8 +729,9 @@ export default FPhotoText;
 ### 데모
 [🔗 Link
 ![build](./md/five_component.png)
+](https://seoftbh.github.io/24-1_React/week05/five_component/build/)
 
-![deomo](./md/five_component_demo.gif)
+[![deomo](./md/five_component_demo.gif)
 ](https://seoftbh.github.io/24-1_React/week05/five_component/build/)
 
 
