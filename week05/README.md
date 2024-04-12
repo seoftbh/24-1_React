@@ -338,7 +338,8 @@ export default class Header extends Component {
 - `App.js`는 `MyComponent.js`를 불러오는 부모(상위) 컴포넌트임
 
 #### 실행 결과
-![alt text](./md/image-10.png)
+[🔗 Link
+![alt text](./md/image-10.png)]()
 
 #### 디렉터리 구조
 - comp
