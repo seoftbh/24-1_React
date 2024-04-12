@@ -175,7 +175,9 @@ npx create-react-app comp
 - 컴포넌트는 JS로 만들어졌음
 - 리액트 컴포넌트가 JS 또는 JSX를 찾아서 생성함
 #### 실행결과
-![alt text](./md/image-5.png)
+[🔗 Link
+![alt text](./md/image-5.png)](https://seoftbh.github.io/24-1_React/week05/comp/build/build-funcComp/)
+
 
 #### 디렉터리 구조
 - comp
@@ -250,7 +252,9 @@ export default function Header() {
 
 ## 실습 1-2) Class 컴포넌트 만들기
 #### 실행 결과
-![alt text](./md/image-7.png)
+[🔗 Link
+![alt text](./md/image-7.png)](https://seoftbh.github.io/24-1_React/week05/comp/build/build-classComp/)
+
 
 #### 디렉터리 구조
 - comp
@@ -339,7 +343,7 @@ export default class Header extends Component {
 
 #### 실행 결과
 [🔗 Link
-![alt text](./md/image-10.png)]()
+![alt text](./md/image-10.png)](https://seoftbh.github.io/24-1_React/week05/comp/build/)
 
 #### 디렉터리 구조
 - comp
@@ -389,18 +393,21 @@ export default function MyComponent(props) {
 
 ---
 
-> [!summary] 컴포넌트의 입출력
+> [!note] 
+> **컴포넌트의 입출력**
 > - 입력은 props
 > - 출력은 Elements
 
-> [!summary] 컴포넌트의 정의
+> [!summary] 
+> **컴포넌트의 정의**
 > - 페이지를 구성하는 모든게 컴포넌트
 > - HTML 컴포넌트 ⇒ HTML 태그 (DOM 요소 구성하는 엘리먼트)
 > - 사용자가 만들 수 있는 태그는 → **대문자**로 작성
 > - 컴포넌트는 다른 **컴포넌트를 포함**할 수 있음
 
 
-> [!summary] props 정의
+> [!summary] 
+> **props 정의**
 > - props는 상위 컴포넌트에서 하위 컴포넌트로 전달하는 정보(값) → **단방향**
 > - 전달 받은 값 반영해 **하나의 컴포넌트**로 **서로 다른 엘리먼트를 리턴**(출력)시킬 수 있음
 
@@ -638,7 +645,8 @@ export default App;
 - 아이콘 이미지 출처: ![(www.iconfinder.com's favicon)](https://www.google.com/s2/favicons?domain=https://www.iconfinder.com) [iconfinder](https://www.iconfinder.com/)
 - `npx create-react-app textimg`
 #### 실행 결과
-![alt text](./md/image-13.png)
+[🔗 Link
+![alt text](./md/image-13.png)](https://seoftbh.github.io/24-1_React/week05/textimg/build/)
 
 #### 디렉터리 구조
 - textimg
@@ -699,7 +707,9 @@ export default FPhotoText;
 
 ### 기획
 - 유용한 사이트를 추천하는 웹페이지 만들기
-![figma](./md/five_component-figma.png)
+
+[🔗 Link
+![figma](./md/five_component-figma.png)](https://www.figma.com/proto/Nn3Mssid1PyBfce0S03QMP/Five-Component-React-App?node-id=2-2&mode=design&t=Ict9o6wdggITiCQZ-1)
 
 ### 구현
 #### 컴포넌트 구조
@@ -717,8 +727,10 @@ export default FPhotoText;
 ![explain](./md/five_component_explain.png)
 
 ### 데모
+[🔗 Link
 ![build](./md/five_component.png)
-![deomo](./md/five_component_demo.gif)
+![deomo](./md/five_component_demo.gif)](https://seoftbh.github.io/24-1_React/week05/five_component/build/)
+
 
 
 
