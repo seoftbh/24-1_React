@@ -16,6 +16,8 @@
 - ### [과제](#과제)
 
 ---
+---
+
 ## 컴포넌트의 정의
 ### 컴포넌트
 - 입력을 받아 출력하는 역할
@@ -722,7 +724,16 @@ export default FPhotoText;
 
 #### props 구현
 - `NavChip.js`
+
+https://github.com/seoftbh/24-1_React/blob/254760c2878c6461e5c5309f927ceb23606d524b/week05/five_component/src/NavBar.js#L7-L26
+
+https://github.com/seoftbh/24-1_React/blob/254760c2878c6461e5c5309f927ceb23606d524b/week05/five_component/src/NavChip.js#L6-L9
+
 - `Card.js`
+
+https://github.com/seoftbh/24-1_React/blob/254760c2878c6461e5c5309f927ceb23606d524b/week05/five_component/src/Main.js#L8-L31
+
+https://github.com/seoftbh/24-1_React/blob/254760c2878c6461e5c5309f927ceb23606d524b/week05/five_component/src/Card.js#L5-L15
 
 ![explain](./md/five_component_explain.png)
 
