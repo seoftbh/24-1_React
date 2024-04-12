@@ -398,7 +398,7 @@ export default function MyComponent(props) {
 > - 입력은 props
 > - 출력은 Elements
 
-> [!summary] 
+> [!note]
 > **컴포넌트의 정의**
 > - 페이지를 구성하는 모든게 컴포넌트
 > - HTML 컴포넌트 ⇒ HTML 태그 (DOM 요소 구성하는 엘리먼트)
@@ -406,7 +406,7 @@ export default function MyComponent(props) {
 > - 컴포넌트는 다른 **컴포넌트를 포함**할 수 있음
 
 
-> [!summary] 
+> [!note] 
 > **props 정의**
 > - props는 상위 컴포넌트에서 하위 컴포넌트로 전달하는 정보(값) → **단방향**
 > - 전달 받은 값 반영해 **하나의 컴포넌트**로 **서로 다른 엘리먼트를 리턴**(출력)시킬 수 있음
