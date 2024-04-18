@@ -1,0 +1,28 @@
+/* body, html {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+} */
+
+body {
+  /* padding:36px; */
+  /* height: 100%; */
+  background: linear-gradient(to right, #ada6ff, #99ccff);
+}
+
+.App {
+  /* text-align: center; */
+}
+
+@media(max-width: 830px) {
+  div.App{
+    height: 100%;
+  }
+}
+
+@media(min-width: 1400px) {
+  div.App {
+    height: 100vh;
+  }
+}

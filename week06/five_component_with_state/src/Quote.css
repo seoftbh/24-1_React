@@ -1,0 +1,41 @@
+div.quote {
+    /* background-color: lightskyblue; */
+    padding: 8px 32px 8px 32px;
+    /* padding-left: 24px; */
+    border-radius: 32px;
+    /* height: 200px; */
+    /* width: inherit; */
+    margin-top:24px;
+    
+    background-color: rgba(255,255,255,0.3);
+    backdrop-filter: blur(20px);
+    box-shadow: 2px 6px 16px 0px rgba(0,0,0,0.2);
+    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+
+.quote button {
+    background-color: #00a6ed;
+    /* background-color: rgba(0, 166, 237,0.3); */
+    backdrop-filter: blur(20px);
+    box-shadow: 2px 6px 16px 0px rgba(0,0,0,0.2);
+    margin-left:24px;
+    margin-right: -16px;
+}
+
+#q {
+    flex-grow: 1;
+    text-align: left;
+    font-size: 1.2rem;
+    margin-top: 14px;
+    font-weight: bold;
+    /* font-style: italic; */
+  }
+  
+#b, #c {
+    /* flex-grow: 1; */
+    text-align: right;
+  }

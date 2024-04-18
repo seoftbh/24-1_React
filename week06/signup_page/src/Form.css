@@ -1,0 +1,99 @@
+body {
+    /* background: linear-gradient(to right, #ada6ff, #99ccff); */
+    height: 100vh;
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+}
+
+div .form {
+    width: 500px;
+    padding: 32px;
+    border-radius: 32px;
+    background-color: rgba(255,255,255,0.3);
+    backdrop-filter: blur(20px);
+    box-shadow: 2px 6px 16px 0px rgba(0,0,0,0.2);
+    box-sizing: border-box;
+}
+
+h1 {
+    color: navy;
+}
+
+div .field {
+    height: 120px;
+    width: 100%;
+}
+
+input {
+    width: 100%;
+    margin-top: 8px;
+    padding: 8px 16px 8px 16px;
+    box-sizing: border-box;
+    
+    border: none;
+    border-radius: 24px;
+    background-color: rgba(255,255,255,0.6);
+    backdrop-filter: blur(20px);
+    /* box-shadow: 2px 6px 16px 0px rgba(0,0,0,0.2); */
+    
+    font-size: 1.6rem;
+
+    outline: none;
+}
+
+label {
+    width: 100%;
+    display: block;
+
+    font-size: 1.3rem;
+    text-align: left;
+    /* color: navy; */
+    font-weight: bold;
+}
+
+p{
+    margin-top: 4px;
+    color: red;
+}
+
+button {
+    margin-top: 4px;
+    padding: 8px;
+    width: 100%;
+    
+    font-size: 1.6rem;
+    color: white;
+
+    border: none;
+    border-radius: 24px;
+    background-color: dodgerBlue;
+    
+    backdrop-filter: blur(20px);
+    box-shadow: 2px 6px 16px 0px rgba(0,0,0,0.2);
+}
+
+@media(min-width: 720px) {
+    body {
+        display: flex;
+    }
+
+}    
+@media(max-width: 720px) {
+    body {
+        width: 100%;
+        margin: 0px;
+        padding: 0px;
+        /* box-sizing: border-box; */
+    }
+    div .form {
+        width: 100%;
+        height: 100vh;
+        /* box-sizing: border-box; */
+        padding: 32px;
+        border-radius: 0px;
+        background-color: rgba(255,255,255,0.3);
+        backdrop-filter: blur(20px);
+        box-shadow: none;
+    }
+}
