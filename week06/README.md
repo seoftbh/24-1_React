@@ -84,8 +84,9 @@
 #### 실행 결과
 - 콘솔에는 출력되지만, 화면은 변경되지 않음
 
-[🔗 Link]()
+[🔗 Link
 ![alt text](./md/image.png)
+](https://seoftbh.github.io/24-1_React/week06/statetest/build-regular_var/)
 
 #### 코드
 ```js title:"statetest/src/Counter.js"
@@ -132,8 +133,9 @@ export default App;
 #### 실행 결과
 - 버튼을 누를 때 마다 화면의 업데이트가 발생함
 
-[🔗 Link]()
+[🔗 Link
 ![alt text](./md/image-1.png)
+](https://seoftbh.github.io/24-1_React/week06/statetest/build-state/)
 
 #### 코드
 ```js
@@ -179,8 +181,9 @@ const [count, setCount] = useState(초기값);
 ### 실행 결과
 - 렌더링이 끝나기 전의 값이 출력되어 콘솔창의 값이 다르게 표시되고 있음
 
-[🔗 Link]()
+[🔗 Link
 ![alt text](./md/image-2.png)
+](https://seoftbh.github.io/24-1_React/week06/statetest/build/)
 
 ### 다르게 표시되는 이유
 - state(상태)를 업데이트하는 `useState` 훅은 비동기적으로 작동함
@@ -459,9 +462,12 @@ var add = (x, y) => x + y;
 ![state_explain](./md/five_component_with_state_explain.png)
 
 ### 데모
-[🔗 Link]()
+[🔗 Link
 ![state_screenshot](./md/five_component_with_state.png)
+](https://seoftbh.github.io/24-1_React/week06/five_component_with_state/build/)
+[
 ![state_demo](./md/five_component_with_state_demo.gif)
+](https://seoftbh.github.io/24-1_React/week06/five_component_with_state/build/)
 
 ## 과제 2
 - 회원가입 페이지 만들기
@@ -475,6 +481,9 @@ var add = (x, y) => x + y;
 ![signup_screenshot2](./md/sign_up_page_2.png)
 
 ### 데모
-[🔗 Link]()
+[🔗 Link
 ![signup_demo](./md/sign_up_page_demo.gif)
+](https://seoftbh.github.io/24-1_React/week06/signup_page/build/)
+[
 ![signup_responsive_demo](./md/sign_up_page_responsive.gif)
+](https://seoftbh.github.io/24-1_React/week06/signup_page/build/)
