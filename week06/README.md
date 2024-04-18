@@ -447,17 +447,22 @@ var add = (x, y) => x + y;
 
 ---
 ---
-## 과제 1
+[## 과제 1](./five_component_with_state)
 - 웹사이트에 2개 이상의 state를 가진 컴포넌트를 하나 이상 포함하기
 
 ### 기능 구현
-- `Header.js`
+- `App.js`
     - ① state `theme`을 이용한 배경 색상 및 h1 태그 색상 변경
+https://github.com/seoftbh/24-1_React/blob/e4c18b06efab09d58aaef0344cc0490f277f8f3b/week06/five_component_with_state/src/App.js#L8-L13
+
 - `Card.js`
     - ② state `like`를 이용한 카드에 표시하기
+https://github.com/seoftbh/24-1_React/blob/e4c18b06efab09d58aaef0344cc0490f277f8f3b/week06/five_component_with_state/src/Card.js#L3-L16
+
 - `Quote.js`
     - ③ state `number`를 이용해 배열에 담긴 문장을 랜덤하게 화면에 표시하기
     - ④ state `count`를 이용한 버튼 클릭 횟수 카운팅 하기
+ https://github.com/seoftbh/24-1_React/blob/e4c18b06efab09d58aaef0344cc0490f277f8f3b/week06/five_component_with_state/src/Quote.js#L5-L19
 
 ![state_explain](./md/five_component_with_state_explain.png)
 
@@ -469,13 +474,19 @@ var add = (x, y) => x + y;
 ![state_demo](./md/five_component_with_state_demo.gif)
 ](https://seoftbh.github.io/24-1_React/week06/five_component_with_state/build/)
 
-## 과제 2
+[## 과제 2](./signup_page)
 - 회원가입 페이지 만들기
 
 ### 기능 구현
 - state와 onChange 이벤트를 이용한 유효성 검사
+https://github.com/seoftbh/24-1_React/blob/e4c18b06efab09d58aaef0344cc0490f277f8f3b/week06/signup_page/src/Form.js#L21-L75
+
 - state를 이용한 오류 메시지 출력
+https://github.com/seoftbh/24-1_React/blob/e4c18b06efab09d58aaef0344cc0490f277f8f3b/week06/signup_page/src/Form.js#L5-L19
+
 - 가입 성공 또는 입력 정보 확인을 알리는 alert 띄우기
+https://github.com/seoftbh/24-1_React/blob/e4c18b06efab09d58aaef0344cc0490f277f8f3b/week06/signup_page/src/Form.js#L77-L96
+
 
 ![signup_screenshot1](./md/sign_up_page_1.png)
 ![signup_screenshot2](./md/sign_up_page_2.png)
