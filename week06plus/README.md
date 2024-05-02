@@ -1,12 +1,14 @@
 ### Class Component의 State 설정 및 사용
 - state 출력
 - 증감 counter
+
 🔗 Link
 ![](./md/react_counter.gif)
 
 ### Event handling
 - 버튼 클릭
 - state 증감
+
 🔗 Link
 ![](./md/react_event_handling.gif)
 

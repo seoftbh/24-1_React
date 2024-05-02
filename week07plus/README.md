@@ -29,6 +29,7 @@
 ### 초기 상태 패싱
 - initializer 함수 패싱 
 - 초기 상태를 직접 패싱
+
 🔗 Link
 ![](./md/react_initializer_todo.gif)
 
