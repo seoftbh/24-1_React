@@ -1,4 +1,8 @@
 ### 프로퍼티 넘기기
+[🔗 Link
+](https://seoftbh.github.io/24-1_React/week05plus/ch04ex/build-propsWorld/)
+[![](./md/react_propsWorld.png)](https://seoftbh.github.io/24-1_React/week05plus/ch04ex/build-propsWorld/)
+
 - 1개의 프로퍼티 넘기기
   - https://github.com/seoftbh/24-1_React/blob/2278e211aed15500970d470113a2a3ffa9ce8185/week05plus/ch04ex/src/OneProps.js#L1-L12
 - 2개의 프로퍼티 넘기기
@@ -11,10 +15,6 @@
   - https://github.com/seoftbh/24-1_React/blob/2278e211aed15500970d470113a2a3ffa9ce8185/week05plus/ch04ex/src/RequiredProps.js#L1-L17
 - 불리언 프로퍼티
   - https://github.com/seoftbh/24-1_React/blob/2278e211aed15500970d470113a2a3ffa9ce8185/week05plus/ch04ex/src/BooleanProps.js#L1-L22  
-
-[🔗 Link
-](https://seoftbh.github.io/24-1_React/week05plus/ch04ex/build-propsWorld/)
-[![](./md/react_propsWorld.png)](https://seoftbh.github.io/24-1_React/week05plus/ch04ex/build-propsWorld/)
 
 ---
 ### 리스트 컴포넌트
