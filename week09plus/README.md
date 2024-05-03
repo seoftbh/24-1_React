@@ -19,18 +19,19 @@
 [🔗 Link
 ](https://seoftbh.github.io/24-1_React/week09plus/ch07ex/build-useContext/)
 [![](./md/7/react_UseContext.gif)](https://seoftbh.github.io/24-1_React/week09plus/ch07ex/build-useContext/)
-[`PageApp.js`](./ch07ex/src/components/PageApp.js)
-- state와 props만 사용해서 만든 웹사이트
-  - https://github.com/seoftbh/24-1_React/blob/978cb865c63f451e4e7632d0254a4e4377f74482/week09plus/ch07ex/src/components/Page.js#L1-L14
-  - https://github.com/seoftbh/24-1_React/blob/978cb865c63f451e4e7632d0254a4e4377f74482/week09plus/ch07ex/src/components/Header.js#L1-L15
-  - [`Content.js`](./ch07ex/src/components/Content.js)
-  - [`Footer.js`](./ch07ex/src/components/Footer.js)
-- context를 사용해서 만든 웹사이트
-  - https://github.com/seoftbh/24-1_React/blob/978cb865c63f451e4e7632d0254a4e4377f74482/week09plus/ch07ex/src/components/context/ThemeContext.js#L1-L3
-  - https://github.com/seoftbh/24-1_React/blob/978cb865c63f451e4e7632d0254a4e4377f74482/week09plus/ch07ex/src/components/Page2.js#L1-L16
-  - https://github.com/seoftbh/24-1_React/blob/978cb865c63f451e4e7632d0254a4e4377f74482/week09plus/ch07ex/src/components/Header2.js#L1-L17
-  - [`Content2.js`](./ch07ex/src/components/Content2.js)
-  - [`Footer2.js`](./ch07ex/src/components/Footer2.js)
+
+- [`PageApp.js`](./ch07ex/src/components/PageApp.js)
+  - state와 props만 사용해서 만든 웹사이트
+    - https://github.com/seoftbh/24-1_React/blob/978cb865c63f451e4e7632d0254a4e4377f74482/week09plus/ch07ex/src/components/Page.js#L1-L14
+    - https://github.com/seoftbh/24-1_React/blob/978cb865c63f451e4e7632d0254a4e4377f74482/week09plus/ch07ex/src/components/Header.js#L1-L15
+    - [`Content.js`](./ch07ex/src/components/Content.js)
+    - [`Footer.js`](./ch07ex/src/components/Footer.js)
+  - context를 사용해서 만든 웹사이트
+    - https://github.com/seoftbh/24-1_React/blob/978cb865c63f451e4e7632d0254a4e4377f74482/week09plus/ch07ex/src/components/context/ThemeContext.js#L1-L3
+    - https://github.com/seoftbh/24-1_React/blob/978cb865c63f451e4e7632d0254a4e4377f74482/week09plus/ch07ex/src/components/Page2.js#L1-L16
+    - https://github.com/seoftbh/24-1_React/blob/978cb865c63f451e4e7632d0254a4e4377f74482/week09plus/ch07ex/src/components/Header2.js#L1-L17
+    - [`Content2.js`](./ch07ex/src/components/Content2.js)
+    - [`Footer2.js`](./ch07ex/src/components/Footer2.js)
 
 ### useContext 예제 2
 [🔗 Link
@@ -123,7 +124,7 @@ https://github.com/seoftbh/24-1_React/blob/978cb865c63f451e4e7632d0254a4e4377f74
 
 ### useTransition 예제 1
 [🔗 Link](https://seoftbh.github.io/24-1_React/week09plus/ch07_1ex/build-useTransition/)
-![](./md/7_1/react_useTransition.gif)
+[![](./md/7_1/react_useTransition.gif)](https://seoftbh.github.io/24-1_React/week09plus/ch07_1ex/build-useTransition/)
 https://github.com/seoftbh/24-1_React/blob/978cb865c63f451e4e7632d0254a4e4377f74482/week09plus/ch07_1ex/src/useTransitionEx/Transition.js#L1-L20
 https://github.com/seoftbh/24-1_React/blob/978cb865c63f451e4e7632d0254a4e4377f74482/week09plus/ch07_1ex/src/useTransitionEx/Transition2.js#L1-L25
 
