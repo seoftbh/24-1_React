@@ -1,6 +1,9 @@
 # React Web Programming
 ![welcome image](<./md/welcome.png>)
 
+![(github.com's favicon)](https://www.google.com/s2/favicons?domain=github.com) [GitHub Pages](https://seoftbh.github.io/24-1_React/)
+
+---
 
 | 주차 | 내용 |
 |------|-----------|
