@@ -5,7 +5,7 @@ import "./Week.css";
 export default function Week06() {
   return (
     <div className="Bg">
-      <a href="https://github.com/seoftbh/24-1_React/week06/">
+      <a href="https://github.com/seoftbh/24-1_React/tree/main/week06/">
         <h2 className="Week">Week06</h2>
       </a>
       <div className="Cards">
