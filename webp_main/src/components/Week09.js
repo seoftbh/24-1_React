@@ -5,11 +5,13 @@ import "./Week.css";
 export default function Week09() {
   return (
     <div className="Bg">
-      <h2 className="Week">Week09</h2>
+      <a href="https://github.com/seoftbh/24-1_React/week09/">
+        <h2 className="Week">Week09</h2>
+      </a>
       <div className="Cards">
         <MultiActionAreaCard
           imgUrl="./img/md_img.png"
-          title="Hook examples"
+          title="Built-in React Hooks"
           desc=""
           cardLink="https://seoftbh.github.io/24-1_React/week09/"
           link="https://github.com/seoftbh/24-1_React/blob/main/week09/README.md"

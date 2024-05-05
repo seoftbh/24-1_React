@@ -5,7 +5,9 @@ import "./Week.css";
 export default function Week03() {
   return (
     <div className="Bg">
-      <h2 className="Week">Week03</h2>
+      <a href="https://github.com/seoftbh/24-1_React/week03/">
+        <h2 className="Week">Week03</h2>
+      </a>
       <div className="Cards">
         <MultiActionAreaCard
           imgUrl="./img/md_img.png"

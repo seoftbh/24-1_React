@@ -25,3 +25,7 @@ div.Cards {
 div.Dummy {
     width: 345px;
 }
+
+a {
+    text-decoration: none;
+}
